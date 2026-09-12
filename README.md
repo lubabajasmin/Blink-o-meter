@@ -2,73 +2,66 @@
 
 
 
-# [Project Name] 🎯
+# Blink-O-Meter 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Useless project 2k26
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Gagana P M - Government Engineering College Kozhikode
+- Member 2: Lubaba Jasmin V M - Government Engineering College Kozhikode
 
 ### Project Description
-[2-3 lines about what your project does]
+Blink-O-Meter is a fun computer-vision-based application that detects and counts eye blinks in real time using a webcam. It uses facial landmarks and Eye Aspect Ratio (EAR) to track blinking and displays the results through an interactive dashboard.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People blink every day without knowing how many times they blink.
+So, we created a completely unnecessary system to detect, count, and measure every blink — because apparently, even blinking needs statistics!
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We built Blink-O-Meter, a computer-vision system that uses a webcam to detect and count eye blinks in real time.
+It calculates the Eye Aspect Ratio (EAR) and displays blink count, blink rate, and session details on an interactive dashboard.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Language:Python
+- framework:Tkinter
+- Libraries:OpenCV,MediaPipe
+  Tools:Visual Studio Code
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Laptop
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+pip install opencv-python mediapipe
 
 # Run
-[commands]
+python main.py
+python app.py
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="810" height="655" alt="image" src="https://github.com/user-attachments/assets/0b9fa993-51a1-4335-ae95-490b3af6e726" />
+(Add screenshot 1 here with proper name)
+backend
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1357" height="892" alt="image" src="https://github.com/user-attachments/assets/383e3479-3270-4c1d-ad19-f4e7fcf0a8cb" />
+(Add screenshot 2 here with proper name)
+main page 
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Components](Add photo of your components here)
@@ -89,9 +82,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Gagana P M: Developed the blink detection system using Python, OpenCV, MediaPipe, and the Eye Aspect Ratio (EAR) algorithm.
+- Lubaba Jasmin V M:  Designed the Tkinter-based user interface, integrated the webcam and detection system, and handled testing, documentation, and presentation
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
