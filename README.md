@@ -49,7 +49,9 @@ For Software:
 
 # Screenshots (Add at least 3)
 
-<img width="810" height="655" alt="image" src="https://github.com/user-attachments/assets/0b9fa993-51a1-4335-ae95-490b3af6e726" />
+
+<img width="805" height="645" alt="image" src="https://github.com/user-attachments/assets/ec20ecc1-1d44-4e84-a632-80a68338a811" />
+
 (Add screenshot 1 here with proper name)
 backend
 
